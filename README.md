@@ -1,1 +1,1 @@
-***Bu fayl python-telegram-bot kutubxonasida foydalanuvchi kanaldan chiqib ketgan bo'lsa aniqlash uchun kerak!***
+***Python-telegram-bot kutubxonasi yordamida bot guruh yoki kanaldan foydalanuvchi chiqib ketganini bilishi mumkin,<br> ammo buning uchun botni o‘sha guruh yoki kanalda administrator qilib qo‘yish kerak.<br> Bu botga foydalanuvchilar chiqib ketishi yoki qo‘shilishi haqidagi xabarnomalarni olish imkonini beradi***
